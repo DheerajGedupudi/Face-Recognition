@@ -73,7 +73,7 @@ The code expects the dataset to be in this format for proper functioning.
 The original dataset used in this project was provided by Professor [Yen Kuang Chen](https://www.linkedin.com/in/ykchen/) and cannot be included here. However, you can use your own dataset to run the code.
 
 ## Files Included
-- [notebooks/Face Recognition.ipynb](notebooks/Face%20Recognition.ipynb): The python notebook added to this repository.
+- [notebooks/Face_Recognition.ipynb](notebooks/Face_Recognition.ipynb): The python notebook added to this repository.
 - [reports/Project_Report.pdf](reports/Project_Report.pdf): Detailed project report.
 
 ## Course Information
